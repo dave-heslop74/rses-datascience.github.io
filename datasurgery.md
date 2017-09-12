@@ -11,7 +11,7 @@ nav-menu: true
 		<header class="major">
 			<h1>Data Surgery sessions</h1>
 		</header>
-		<p>The Data Surgery sessions will consist of tutorials aimed at helping students and staff solve Earth science problems with existing data science tools. They aim at improving the awareness and competence of RSES PhD students of all ages in data science.</p>
+		<p>The Data Surgery sessions will consist of tutorials aimed at helping students and staff solve Earth science problems with existing data science tools. The sessions are aimed at improving the data science awareness and skills of RSES PhD students.</p>
 		<p>The group will meet forthnightly with a focus on discussion and improving skills.</p>
 		<header class="minor">
 			<h2>Organizers</h2>
